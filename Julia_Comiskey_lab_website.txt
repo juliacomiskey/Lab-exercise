@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html lang="en">
+    <head> 
+        <meta name="description" content="HARP 151 Lab 2">
+        <meta name="keywords" content="Kim Kardashian fan website">
+        <title> Kim K </title>
+    </head>
+    <body>
+    <div id="wrapper"> 
+    <h1 style="background-color:beige;">Welcome to Kim Kardashian Fanpage!</h1>
+    <p><h4 style="text-align:center;">This website will give you some infomation redarding Kim K!</h4></p>
+    Name     <input type=""button" value=""display text"> </p>
+<p><img src="kimkardashian.jpg" width="600" height="330" alt="A picture of Kim Kardashian."> </p>
+<body>
+    <b>Biography:</b>
+</body>
+<p><em>Kim Kardashian</em> who's full name is <i>Kimberly Noel Kardashian</i> was born on October 21,1980.
+    Her parents are Robert Kardashian and Kris Jenner. She has 4 sisters whos names are Kourtney, Khloe, Kendall, and Kylie. She also has one brother Robert.
+</p>
+<p> To learn more about Kim's early life <a href="https://en.wikipedia.org/wiki/Kim_Kardashian" title="Kim K wiki page">her Wikipedia page has a lot of information. </a>  </p>
+<br>
+<body>
+    <b>Business Ventures:</b>
+    <br>Kim is the owner of many business which include <i>Kim Kardasian Hollywood Game</i>, <i>Kimoji</i>,
+    <i>SKKN</i>, and <i>Skims</i>. I would say her most successful company is Skims. Skims is a clothing company that started as many shapewear but has expanded to include many different articles of clothing. 
+    <iframe src="https://skims.com/" height="600" width = "800"></iframe>
+    <p>
+        
+    </p>
+    
+</body>
