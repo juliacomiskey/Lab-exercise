@@ -1,0 +1,77 @@
+/* Local selector is the use of ID and classes that can be added to specific parts of the code*/
+/* Global Selector is when it applies to the entire page*/
+
+
+*{
+
+    font-family: Arial, Times New Roman, sans-serif;
+}
+
+body{
+
+    background-color:bisque; 
+    font-family:'Times New Roman', Courier, monospace;
+}
+
+.opening-heading{
+    position: static;
+    border-style: solid;
+    border-color: purple;
+    background-color: palevioletred;
+    background-image: linear-gradient(red, yellow);/* styling elemnt not used in class*/
+    margin: auto;
+    text-align: center;
+    
+}
+
+.all-images{ /*selector*/
+    padding: 50px;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    width: 90%;
+    opacity: 0.7; /*styling element not used in class*/
+}
+
+img:hover{
+    transform: translate(50px, 100px)
+}
+
+#special {
+    background-color: aliceblue;
+    padding: 3px;
+    width: 80%;
+    margin: auto;
+}
+
+.position{
+
+    position: static;
+    width: 1000px;
+    height: 100px;
+    left: 60px;
+    bottom: 100px;
+    padding: 20px ;
+    border: 4px solid gray;
+    background-color: lightpink;
+    text-align: center;
+    text-shadow: 1px 1px; /*styling element not used in class*/
+}
+
+
+
+
+/*global styling of the a element*/
+a{ 
+    text-decoration: none;
+    color: purple; 
+}
+
+a:hover{
+    color: pink;
+}
+
+
+a:visited{
+    color: green ;
+}
